@@ -64,4 +64,4 @@ This project is a full-stack, polyglot CYBER THREAT INTELLIGENCE project featuri
 - EL YADRI Med Amine & LAAFAR Othmane 
 
 ---
-For more details and code: 
+For more details and code: https://github.com/medamine1/nosql-cti.git
