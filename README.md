@@ -1,4 +1,4 @@
-# Polyglot Intrusion Detection System (IDS)
+# CYBER THREAT INTELLIGENCE SYSTEM
 
 ## Overview
 This project is a full-stack, polyglot CYBER THREAT INTELLIGENCE project featuring:
